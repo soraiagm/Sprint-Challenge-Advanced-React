@@ -40,6 +40,10 @@
 .navbar {
     background-color: #1F2022;
     border: none;
+    font-size: 2rem;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0;
 }
 
 .dark-mode__toggle {
