@@ -1,13 +1,13 @@
 import React from 'react';
 import Api from '../src/components/Api.js';
+import Navbar from './components/Navbar.js';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      {/* <header className="App-header"> */}
-        <Api />
-      {/* </header> */}
+        <Navbar />
+        <Api /> 
     </div>
   );
 }
